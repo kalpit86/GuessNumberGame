@@ -1,2 +1,2 @@
 # GuessNumberGame
-Made a guess number game while following a udemy course.
+- Made a guess number game while following a udemy course.
